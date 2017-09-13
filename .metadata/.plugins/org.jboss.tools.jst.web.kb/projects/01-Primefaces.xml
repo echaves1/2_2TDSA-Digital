@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kb-project>
+ <depends-on-projects/>
+ <used-by-projects/>
+ <paths>
+  <path value="C:/opensource/eclipse-neon/opensource/Maven-Dependencies/.m2/repository/com/sun/faces/jsf-api/2.2.14/jsf-api-2.2.14.jar"/>
+  <path value="C:/opensource/eclipse-neon/opensource/Maven-Dependencies/.m2/repository/org/jboss/logging/jboss-logging/3.3.0.Final/jboss-logging-3.3.0.Final.jar"/>
+  <path value="C:/opensource/eclipse-neon/opensource/Maven-Dependencies/.m2/repository/dom4j/dom4j/1.6.1/dom4j-1.6.1.jar"/>
+  <path value="C:/opensource/eclipse-neon/opensource/Maven-Dependencies/.m2/repository/org/primefaces/primefaces/6.1/primefaces-6.1.jar">
+   <libraries>
+    <library class="faces-config">
+     <id class="model-object"
+      path="FileSystems/lib-primefaces-6.1.jar/meta-inf/faces-config.xml" project="01-Primefaces"/>
+    </library>
+    <library class="facelet">
+     <id class="model-object"
+      path="FileSystems/lib-primefaces-6.1.jar/meta-inf/primefaces-p.taglib.xml" project="01-Primefaces"/>
+    </library>
+    <library class="facelet">
+     <id class="model-object"
+      path="FileSystems/lib-primefaces-6.1.jar/meta-inf/primefaces-pm.taglib.xml" project="01-Primefaces"/>
+    </library>
+   </libraries>
+  </path>
+  <path value="C:/opensource/eclipse-neon/opensource/Maven-Dependencies/.m2/repository/org/hibernate/javax/persistence/hibernate-jpa-2.1-api/1.0.0.Final/hibernate-jpa-2.1-api-1.0.0.Final.jar"/>
+  <path value="C:/opensource/eclipse-neon/opensource/Maven-Dependencies/.m2/repository/antlr/antlr/2.7.7/antlr-2.7.7.jar"/>
+  <path value="C:/opensource/eclipse-neon/opensource/Maven-Dependencies/.m2/repository/org/javassist/javassist/3.20.0-GA/javassist-3.20.0-GA.jar"/>
+  <path value="C:/opensource/eclipse-neon/opensource/Maven-Dependencies/.m2/repository/org/jboss/jandex/2.0.3.Final/jandex-2.0.3.Final.jar"/>
+  <path value="/01-Primefaces/WebContent/WEB-INF/faces-config.xml">
+   <libraries>
+    <library class="faces-config">
+     <id class="model-object"
+      path="FileSystems/WEB-INF/faces-config.xml" project="01-Primefaces"/>
+    </library>
+   </libraries>
+  </path>
+  <path value="C:/opensource/eclipse-neon/opensource/Maven-Dependencies/.m2/repository/com/sun/faces/jsf-impl/2.2.14/jsf-impl-2.2.14.jar">
+   <libraries>
+    <library class="tld">
+     <id class="model-object"
+      path="FileSystems/lib-jsf-impl-2.2.14.jar/meta-inf/html_basic.tld" project="01-Primefaces"/>
+    </library>
+    <library class="tld">
+     <id class="model-object"
+      path="FileSystems/lib-jsf-impl-2.2.14.jar/meta-inf/jsf_core.tld" project="01-Primefaces"/>
+    </library>
+    <library class="facelet">
+     <id class="model-object"
+      path="FileSystems/lib-jsf-impl-2.2.14.jar/meta-inf/mojarra_ext.taglib.xml" project="01-Primefaces"/>
+    </library>
+    <library class="tld">
+     <id class="model-object"
+      path="FileSystems/lib-jsf-impl-2.2.14.jar/meta-inf/mojarra_ext.tld" project="01-Primefaces"/>
+    </library>
+    <library class="facelet">
+     <id class="model-object"
+      path="FileSystems/lib-jsf-impl-2.2.14.jar/com/sun/faces/metadata/taglib/composite.taglib.xml" project="01-Primefaces"/>
+    </library>
+    <library class="facelet">
+     <id class="model-object"
+      path="FileSystems/lib-jsf-impl-2.2.14.jar/com/sun/faces/metadata/taglib/facelets_jsf_core.taglib.xml" project="01-Primefaces"/>
+    </library>
+    <library class="facelet">
+     <id class="model-object"
+      path="FileSystems/lib-jsf-impl-2.2.14.jar/com/sun/faces/metadata/taglib/html_basic.taglib.xml" project="01-Primefaces"/>
+    </library>
+    <library class="facelet">
+     <id class="model-object"
+      path="FileSystems/lib-jsf-impl-2.2.14.jar/com/sun/faces/metadata/taglib/jstl-core.taglib.xml" project="01-Primefaces"/>
+    </library>
+    <library class="facelet">
+     <id class="model-object"
+      path="FileSystems/lib-jsf-impl-2.2.14.jar/com/sun/faces/metadata/taglib/jstl-fn.taglib.xml" project="01-Primefaces"/>
+    </library>
+    <library class="facelet">
+     <id class="model-object"
+      path="FileSystems/lib-jsf-impl-2.2.14.jar/com/sun/faces/metadata/taglib/mojarra_ext.taglib.xml" project="01-Primefaces"/>
+    </library>
+    <library class="facelet">
+     <id class="model-object"
+      path="FileSystems/lib-jsf-impl-2.2.14.jar/com/sun/faces/metadata/taglib/ui.taglib.xml" project="01-Primefaces"/>
+    </library>
+   </libraries>
+  </path>
+  <path value="C:/opensource/eclipse-neon/opensource/Maven-Dependencies/.m2/repository/com/fasterxml/classmate/1.3.0/classmate-1.3.0.jar"/>
+  <path value="C:/opensource/eclipse-neon/opensource/Maven-Dependencies/.m2/repository/org/apache/geronimo/specs/geronimo-jta_1.1_spec/1.1.1/geronimo-jta_1.1_spec-1.1.1.jar"/>
+  <path value="C:/opensource/eclipse-neon/opensource/Maven-Dependencies/.m2/repository/org/hibernate/common/hibernate-commons-annotations/5.0.1.Final/hibernate-commons-annotations-5.0.1.Final.jar"/>
+  <path value="C:/opensource/eclipse-neon/opensource/Maven-Dependencies/.m2/repository/commons-fileupload/commons-fileupload/1.3.1/commons-fileupload-1.3.1.jar"/>
+  <path value="C:/opensource/eclipse-neon/opensource/Maven-Dependencies/.m2/repository/commons-io/commons-io/2.5/commons-io-2.5.jar"/>
+  <path value="C:/opensource/eclipse-neon/opensource/Maven-Dependencies/.m2/repository/org/hibernate/hibernate-core/5.2.7.Final/hibernate-core-5.2.7.Final.jar"/>
+ </paths>
+ <validation>
+  <el>
+   <linked-el length="11" name="%0" offset="1027" path="%1"/>
+   <linked-el length="21" name="%0" offset="1123" path="%1"/>
+   <linked-el length="12" name="%0" offset="1418" path="%1"/>
+   <linked-el length="32" name="%0" offset="554" path="%2"/>
+   <linked-el length="29" name="%0" offset="841" path="%2"/>
+   <linked-el length="31" name="%0" offset="1129" path="%2"/>
+   <linked-el length="13" name="%0" offset="1454" path="%1"/>
+   <linked-el length="26" name="%0" offset="1261" path="%1"/>
+   <linked-el length="44" name="%0" offset="1004" path="%2"/>
+   <linked-el length="25" name="%0" offset="1648" path="%1"/>
+   <linked-el length="22" name="%0" offset="1039" path="%1"/>
+   <linked-el length="10" name="%0" offset="1112" path="%1"/>
+   <linked-el length="26" name="%0" offset="1207" path="%1"/>
+   <linked-el length="30" name="%0" offset="700" path="%2"/>
+   <linked-el length="35" name="%3" offset="491" path="%4"/>
+   <linked-el length="35" name="%3" offset="660" path="%4"/>
+   <linked-el length="25" name="%5" offset="1873" path="%1"/>
+   <linked-el length="34" name="%5" offset="1407" path="%2"/>
+   <linked-el length="22" name="%5" offset="1220" path="%2"/>
+   <linked-el length="32" name="%5" offset="554" path="%2"/>
+   <linked-el length="29" name="%5" offset="841" path="%2"/>
+   <linked-el length="31" name="%5" offset="1129" path="%2"/>
+   <linked-el length="29" name="%5" offset="1495" path="%2"/>
+   <linked-el length="30" name="%5" offset="700" path="%2"/>
+   <linked-el length="44" name="%5" offset="1004" path="%2"/>
+   <linked-el length="31" name="%6" offset="736" path="%1"/>
+   <linked-el length="30" name="%6" offset="2175" path="%1"/>
+   <linked-el length="11" name="%6" offset="1027" path="%1"/>
+   <linked-el length="21" name="%6" offset="1123" path="%1"/>
+   <linked-el length="12" name="%6" offset="1418" path="%1"/>
+   <linked-el length="13" name="%6" offset="1454" path="%1"/>
+   <linked-el length="26" name="%6" offset="1261" path="%1"/>
+   <linked-el length="27" name="%6" offset="651" path="%1"/>
+   <linked-el length="25" name="%6" offset="1648" path="%1"/>
+   <linked-el length="29" name="%6" offset="1680" path="%1"/>
+   <linked-el length="22" name="%6" offset="1039" path="%1"/>
+   <linked-el length="28" name="%6" offset="950" path="%1"/>
+   <linked-el length="16" name="%6" offset="1850" path="%1"/>
+   <linked-el length="10" name="%6" offset="1112" path="%1"/>
+   <linked-el length="26" name="%6" offset="1207" path="%1"/>
+   <linked-el length="39" name="%6" offset="606" path="%1"/>
+   <linked-el length="25" name="%7" offset="1873" path="%1"/>
+   <linked-el length="34" name="%7" offset="1407" path="%2"/>
+   <linked-el length="22" name="%7" offset="1220" path="%2"/>
+   <linked-el length="32" name="%7" offset="554" path="%2"/>
+   <linked-el length="29" name="%7" offset="841" path="%2"/>
+   <linked-el length="31" name="%7" offset="1129" path="%2"/>
+   <linked-el length="29" name="%7" offset="1495" path="%2"/>
+   <linked-el length="30" name="%7" offset="700" path="%2"/>
+   <linked-el length="44" name="%7" offset="1004" path="%2"/>
+   <linked-el length="31" name="%8" offset="736" path="%1"/>
+   <linked-el length="29" name="%8" offset="1680" path="%1"/>
+   <linked-el length="30" name="%8" offset="2175" path="%1"/>
+   <linked-el length="28" name="%8" offset="950" path="%1"/>
+   <linked-el length="39" name="%8" offset="606" path="%1"/>
+   <linked-el length="27" name="%8" offset="651" path="%1"/>
+   <linked-el length="35" name="%9" offset="491" path="%4"/>
+   <linked-el length="35" name="%9" offset="660" path="%4"/>
+  </el>
+ </validation>
+ <aliases>
+  <alias path="/01-Primefaces/WebContent/lista-usuario.xhtml" value="%1"/>
+  <alias path="/01-Primefaces/src/br/com/fiap/entity/Usuario.java" value="%0"/>
+  <alias path="/01-Primefaces/src/br/com/fiap/bean/GraficoBean.java" value="%3"/>
+  <alias path="usuarioBean" value="%5"/>
+  <alias path="listaUsuarioBean" value="%6"/>
+  <alias path="/01-Primefaces/src/br/com/fiap/bean/UsuarioBean.java" value="%7"/>
+  <alias
+   path="/01-Primefaces/src/br/com/fiap/bean/ListaUsuarioBean.java" value="%8"/>
+  <alias path="/01-Primefaces/WebContent/grafico.xhtml" value="%4"/>
+  <alias path="graficoBean" value="%9"/>
+  <alias path="/01-Primefaces/WebContent/usuario.xhtml" value="%2"/>
+ </aliases>
+ <includes/>
+ <uris>
+  <uri value="http://java.sun.com/jsf/core">
+   <prefix>f</prefix>
+  </uri>
+  <uri value="http://java.sun.com/jsf/html">
+   <prefix>h</prefix>
+  </uri>
+ </uris>
+</kb-project>
